@@ -38,7 +38,26 @@
 
 
 
-Console.Write("Введите число: ");
-int a = Convert.ToInt32(Console.Read());
-if (a % 2 == 0) Console.WriteLine("Число четное");
-else Console.WriteLine("Число нечетное");
+// Console.Write("Введите число: ");
+// int a = Convert.ToInt32(Console.Read());
+// if (a % 2 == 0) Console.WriteLine("Число четное");
+// else Console.WriteLine("Число нечетное");
+
+
+
+
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.Write("Введите число: ");
+        int num = Convert.ToInt32(Console.ReadLine());
+        int i = 0;
+        while (i <= num)
+        {
+            Console.WriteLine(i);
+            i = i + 2;
+        }
+    }
+}
