@@ -1,0 +1,15 @@
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\bin\Debug\net6.0\HomeLessonCSharp.exe
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\bin\Debug\net6.0\HomeLessonCSharp.deps.json
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\bin\Debug\net6.0\HomeLessonCSharp.runtimeconfig.json
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\bin\Debug\net6.0\HomeLessonCSharp.dll
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\bin\Debug\net6.0\HomeLessonCSharp.pdb
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\obj\Debug\net6.0\HomeLessonCSharp.csproj.AssemblyReference.cache
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\obj\Debug\net6.0\HomeLessonCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\obj\Debug\net6.0\HomeLessonCSharp.AssemblyInfoInputs.cache
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\obj\Debug\net6.0\HomeLessonCSharp.AssemblyInfo.cs
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\obj\Debug\net6.0\HomeLessonCSharp.csproj.CoreCompileInputs.cache
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\obj\Debug\net6.0\HomeLessonCSharp.dll
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\obj\Debug\net6.0\refint\HomeLessonCSharp.dll
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\obj\Debug\net6.0\HomeLessonCSharp.pdb
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\obj\Debug\net6.0\HomeLessonCSharp.genruntimeconfig.cache
+C:\Users\NATALIA A\Desktop\HomeLesson\HomeLessonCSharp\obj\Debug\net6.0\ref\HomeLessonCSharp.dll

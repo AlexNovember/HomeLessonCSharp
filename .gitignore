@@ -1,0 +1,9 @@
+.vscode/launch.json
+.vscode/tasks.json
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0/HomeLessonCSharp.GlobalUsings.g.cs
+obj/Debug/net6.0/HomeLessonCSharp.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/HomeLessonCSharp.AssemblyInfo.cs
+obj/Debug/net6.0/HomeLessonCSharp.AssemblyInfoInputs.cache
+obj/Debug/net6.0/HomeLessonCSharp.assets.cache
+obj/Debug/net6.0/HomeLessonCSharp.csproj.AssemblyReference.cache
